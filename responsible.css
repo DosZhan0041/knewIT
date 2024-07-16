@@ -920,4 +920,12 @@ footer{
     }
     
     
+
+   .owl-stage-outer{
+    width: 100%;
+   }
+
+   .row{
+    width: 100%;
+   }
 }
